@@ -1,0 +1,13 @@
+name: lending-club
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - scipy
+  - jupyter
+  - notebook
